@@ -12,9 +12,9 @@ O que ela faz:
 
 1. **Baixe o arquivo:** [clique aqui para baixar o puro-ia.zip](https://github.com/ErikZanette/puro-ia/raw/main/puro-ia.zip). Não precisa abrir nem descompactar.
 2. **Entre no Claude:** acesse [claude.ai](https://claude.ai) e crie uma conta gratuita (ou entre na sua).
-3. **Ative a execução de código:** clique no seu nome, vá em **Configurações** e ative **Execução de código e criação de arquivos**.
-4. **Envie a skill:** abra **Personalizar > Skills**, clique em **Enviar skill** e escolha o `puro-ia.zip` que você baixou.
-5. **Confira se está ligada:** a PURO IA deve aparecer na lista de skills com a chave ativada.
+3. **Ative a execução de código:** clique no seu nome (canto de baixo, à esquerda), abra **Configurações**, entre em **Recursos** e ligue a opção **Executar código na nuvem**.
+4. **Envie a skill:** ainda em Configurações, clique em **Skills**, depois em **Adicionar** e em **Fazer upload de Skill**. Escolha o `puro-ia.zip` que você baixou e clique em **Fazer upload**.
+5. **Confira se está ligada:** a skill `puro-ia` deve aparecer na lista com a chave ativada.
 
 Pronto. A instalação é feita uma vez só e vale também para o aplicativo do Claude no celular, na mesma conta.
 
