@@ -22,13 +22,14 @@ A PURO IA funciona no **Claude** e no **Gemini**. Escolha um dos dois (não prec
 
 ### Opção B: no Gemini
 
-O Gemini não aceita o arquivo .zip. Para ele existe um arquivo próprio, chamado `SKILL.md`.
+O Gemini não aceita arquivo .zip direto. Por isso, aqui você baixa uma pasta compactada, abre ela no computador e envia os arquivos que estão dentro.
 
-1. **Baixe o arquivo:** [clique aqui para baixar o SKILL.md](https://github.com/ErikZanette/puro-ia/releases/latest/download/SKILL.md). Não mude o nome do arquivo.
-2. **Entre no Gemini:** acesse [gemini.google.com](https://gemini.google.com) com a sua conta pessoal do Google.
-3. **Abra as habilidades:** clique na engrenagem (canto de baixo, à esquerda), depois em **Gems** e em **Ver habilidades**.
-4. **Envie o arquivo:** clique em **Criar** e depois em **Enviar**. Escolha o `SKILL.md` que você baixou e clique em **Enviar**.
-5. **Confirme:** na tela seguinte aparecem o nome `puro-ia` e as instruções. Clique em **Criar**.
+1. **Baixe a pasta:** [clique aqui para baixar o puro-ia-gemini.zip](https://github.com/ErikZanette/puro-ia/raw/main/puro-ia-gemini.zip).
+2. **Descompacte:** vá até a pasta Downloads, clique com o botão direito no `puro-ia-gemini.zip` e escolha **Extrair tudo**. Vai aparecer uma pasta chamada `puro-ia-gemini` com 18 arquivos dentro.
+3. **Entre no Gemini:** acesse [gemini.google.com](https://gemini.google.com) com a sua conta pessoal do Google.
+4. **Abra as habilidades:** clique na engrenagem (canto de baixo, à esquerda), depois em **Gems** e em **Ver habilidades**.
+5. **Envie os arquivos:** clique em **Criar** e depois em **Enviar**. Clique na palavra **arquivos**, abra a pasta `puro-ia-gemini`, selecione todos os 18 arquivos (Ctrl + A) e clique em **Abrir**. Depois clique em **Enviar**.
+6. **Confirme:** na tela seguinte aparecem o nome `puro-ia` e as instruções. Clique em **Criar**.
 
 ## Como usar
 
@@ -43,8 +44,6 @@ Abra uma conversa nova e mande, por exemplo:
 ### No Gemini
 
 Em toda mensagem, digite **@puro-ia**, clique no nome que aparece e só então escreva a pergunta ou envie a foto. Sem o **@puro-ia** o Gemini responde sozinho, sem o método do Antonio.
-
-Na primeira mensagem de uma conversa o Gemini costuma só se apresentar. Se isso acontecer, mande a pergunta de novo, com o **@puro-ia** na frente.
 
 ### Dicas
 
